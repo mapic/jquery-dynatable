@@ -1,3 +1,8 @@
+####
+This is a forked version, with Norwegian language **hardcoded** into jquery.dynatable.js. Don't ask...
+
+----
+
 # jQuery Dynatable
 
 *A funner, semantic, HTML5+JSON, interactive table plugin.*
