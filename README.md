@@ -1,4 +1,4 @@
-####
+# I'm a fork
 This is a forked version, with Norwegian language **hardcoded** into jquery.dynatable.js. Don't ask...
 
 ----
